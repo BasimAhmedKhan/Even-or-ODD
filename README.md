@@ -1,5 +1,5 @@
 # Even-or-ODD
 
-## Python Assignmnet's
+## Python Program
 
-A Python Programe That Tells you That a Number Is Even or Odd
+Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user.
